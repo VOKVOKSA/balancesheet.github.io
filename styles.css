@@ -1,0 +1,28 @@
+main {
+    border: 2px solid black;
+}
+.biggie {
+    width: 70%;
+}
+.primary {
+    background-color: black;
+    color: aliceblue;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.bigfont {
+    font-size: 2rem;
+    color: blue;
+}
+.grey {
+    background-color: rgb(150, 149, 145);
+}
+.stert{
+    text-align: start;
+    font-size: 1.5rem;
+}
+.forwhite {
+    font-style: italic;
+}
