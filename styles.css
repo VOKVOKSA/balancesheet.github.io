@@ -26,3 +26,6 @@ table {
 .forwhite {
     font-style: italic;
 }
+.trbottom {
+    border-bottom: 5px double black;
+}
