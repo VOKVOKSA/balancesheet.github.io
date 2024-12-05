@@ -27,5 +27,7 @@ table {
     font-style: italic;
 }
 .trbottom {
+    margin-top: 30px;
     border-bottom: 5px double black;
+    font-weight: bold;
 }
